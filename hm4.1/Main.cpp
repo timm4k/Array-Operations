@@ -25,7 +25,6 @@ int main() {
         maxValue = max(maxValue, number);
     }
 
-    // Виведення результатів
     cout << "Min element: " << minValue << endl;
     cout << "Max element: " << maxValue << endl;
 
